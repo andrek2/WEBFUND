@@ -1,0 +1,71 @@
+h1{
+    color:black;
+    text-align: center;
+    font-weight: 2000;
+
+    
+}
+#boxer {
+    height: 200px;
+}
+#stello {
+    height: 200px;
+}
+#daft {
+    height: 200px;
+}
+#grace {
+    height: 200px;
+}
+#heis {
+    height: 200px;
+}
+#homer {
+    height: 200px;
+}
+#private {
+    height: 200px;
+}
+#roid {
+    height: 200px;
+}
+
+.container {
+
+    margin: 0px auto;
+text-align: center;
+    height: 250px;
+    width: 760px;
+
+    
+}
+
+
+.top-box{
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.middle-box{
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.bottom-box
+{
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
