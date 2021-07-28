@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    margin-bottom: 10px;
+    padding: 3px;
+}
+
+span{
+    background-color: rgb(196, 193, 193);
+    color: black;
+    border-radius: 50%;
+}
+
+.main-body{
+    display: flex;
+}
+
+.main-content{
+    width: 50%;
+    min-height: 300px;
+}
+
+.side-content{
+    width: 50%;
+    min-height: 300px;
+    text-align: left;
+}
+
+.container{ 
+    width: 1200px;
+    min-height: 300px;
+    outline: 1px solid black;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+
+}
+
+#user{
+    width: 62px;
+    height: 60px;
+    padding: 20px;
+
+}
+img{
+    width: 13px;
+    height: 13px;
+    margin-right: 5px;
+}
+
+h1{
+    color: white;
+display: inline-flex;
+margin-right: 18px;
+}
+.banner{
+    height:57px;
+    width: auto;
+    background-color: aqua;
+    color: aqua;
+    outline: none;
+    margin-bottom: 25px;
+}
+h5{
+    background-color: rgb(36, 35, 35);
+    color: white;
+    padding: 5px;
+}
+
+.education p {
+    padding: 5px  0px 0px 5px;
+}
+
+.doe{
+    background-color: none;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+.names{
+    list-style-type: none;
+
+}
+.sign{
+    display: inline;
+
+}
+
+button{
+    color: white;
+    background-color: aqua;
+    border: none;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.navbar{
+    text-align: center;
+    background-color: black;
+    padding: 15px;
+    margin-bottom: 20px;
+
+
+
+}
+.navlist, .navlist1, .navlist2{
+    margin: 0 5px; 
+    display: inline-flex;    
+
+}
+
+.navlist1{
+    font-weight: bold;
+}
+
+.navlist2{
+    margin-right: 192px;
+}
+
+.jane{ 
+    width: 300px;
+    outline: 1px solid grey;
+    margin: 0 auto;
+    color:rgb(12, 12, 12);
+    font-weight: bold;
+    margin-bottom: 20px;
+    display: block;
+    margin-right: 24px;
+    text-align: left;
+}
+
+.jane p {
+    padding: 5px;
+}
+.education{ 
+    width: 300px;
+    outline: 1px solid grey;
+    margin: 0 auto;
+    color:rgb(12, 12, 12);
+    font-weight: bold;
+    margin-right: 24px;
+    text-align: left;
+}
+
+.request p{
+    padding: 5px;
+}
+
+.request img{
+    align-items: right;
+}
+
+
+.request{ 
+    width: 170px;
+    outline: 1px solid grey;
+    margin: 0 auto;
+    color:rgb(12, 12, 12);
+    font-weight: bold;
+    margin-bottom: 20px;
+    display: table-caption;
+    vertical-align: top;
+
+}
+.connection{ 
+    width: 170px;
+    outline: 1px solid grey;
+    margin: 0 auto;
+    color:rgb(12, 12, 12);
+    font-weight: bold;
+    display: inline-block;
+
+
+}
+.view{ 
+    width: 170px;
+    outline: 1px solid grey;
+    margin: 0 auto;
+    text-decoration: underline;
+    color:rgb(12, 12, 12);
+    display: table-caption;
+
+}
+
+.date{
+    color:rgb(99, 98, 98);
+}
+

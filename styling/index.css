@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#container{
+    width: 1000px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+h1{
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+h2{
+    text-align: center;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+}
+
+h3{
+    text-align: right;
+    background-color: lightblue;
+    color: purple;
+    text-decoration: underline;
+}
