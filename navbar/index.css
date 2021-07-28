@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.nav-title{
+    padding: 10px;
+}
+.nav{
+    background-color: rgb(48, 46, 46);
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.nav-links{
+    display: flex;
+    list-style-type: none;
+    text-align: right;
+}
+
+li{
+    margin-right: 40px;
+}
+
+.btn{
+    background-color: aqua;
+    box-shadow: 10px 5px 5px black;
+    border: 3px solid black;
+}
